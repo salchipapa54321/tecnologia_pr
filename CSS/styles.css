@@ -1,0 +1,29 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .hero {
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .navbar-brand {
+    color: #007bff !important;
+  }
+  
+  .navbar-nav .nav-link {
+    color: #007bff !important;
+  }
+  
+  h2 {
+    color: #007bff;
+  }
+  
+  #servicios h4, #aplicaciones .card-title {
+    color: #439af1;
+  }
+  
+  footer {
+    background-color: #343a40;
+  }
